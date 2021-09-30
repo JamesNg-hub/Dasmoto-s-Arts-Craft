@@ -1,3 +1,9 @@
+/* global */
+
+* {
+  font-family: Helvetica, sans-serif;
+}
+
 /* header */
 
 h1 {
@@ -11,7 +17,19 @@ h1 {
   font-weight: bold;
 }
 
-h1,
 h2 {
-  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
 }
